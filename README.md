@@ -70,6 +70,8 @@
 <img width="1919" height="883" alt="Board" src="https://github.com/user-attachments/assets/67306c25-7f32-4ead-a11b-975967387a5f" />
 <img width="1905" height="878" alt="calender" src="https://github.com/user-attachments/assets/518ab80e-0990-44f8-8724-a17a6c27d3ed" />
 <img width="1918" height="879" alt="pomodoros" src="https://github.com/user-attachments/assets/291abfd1-96f1-4833-a09b-edce9a2f3ab1" />
+<img width="1908" height="873" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/9fb1ae4f-ce89-45d0-b5d0-ac32af055e0a" />
+
 
 
 
