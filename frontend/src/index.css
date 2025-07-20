@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#root {
+  --accent-color: #3b82f6;
+  display: grid;
+  grid-template-columns: 5rem 1fr;
+  grid-template-rows: 2.5rem 1fr;
+  width: 100dvw;
+  height: 100dvh;
+}
+
+.scrollbar-custom {
+  @apply scrollbar-thin scrollbar-track-neutral-200 scrollbar-thumb-white dark:scrollbar-track-neutral-800/70 dark:scrollbar-thumb-neutral-500;
+}
+
+::selection {
+  background-color: var(--accent-color);
+  color: white;
+}
+
+@media screen and (min-width: 1024px) {
+  #root {
+    grid-template-columns: 7rem 1fr;
+  }
+}
